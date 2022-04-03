@@ -8,6 +8,7 @@
 body {
     min-height: 100vh;
     background-color: aliceblue;
+    font-family: var(--fonte-02);
     
 }
 :root {
@@ -41,11 +42,12 @@ header > p {
 a {
     color: white;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 a:hover {
     text-decoration: underline;
+   
 }
 
 .normal {
@@ -94,8 +96,8 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 5px;
-    font-size: 1.3em;  
+    padding: 10px;
+     
 }
 
 
